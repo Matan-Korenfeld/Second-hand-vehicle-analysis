@@ -14,7 +14,7 @@ Predicting the impairment and the year of your vehicle.
 * We merged all the data frames.
 * On the merged data frame we removed:
   - missing values.
-  - signs ('₪',',').
+  - signs (' ₪ ' , ' , ').
   - outliers.
 * At the end we changed all the values to numeric.
 
